@@ -3,6 +3,7 @@
 # Las columnas tienen el siguiente nombre: 
 
 '''Vuelo|Tipo Aeronave| Pasajeros| Estado|
+____________________________________________
 str|str|int|str|
 '''
 Repositorio de práctica del curso Diplomado IA
